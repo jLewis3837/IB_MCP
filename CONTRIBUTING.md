@@ -29,3 +29,4 @@ Notes and usage details for IB_MCP.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
