@@ -35,3 +35,4 @@ Notes and usage details for IB_MCP.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
