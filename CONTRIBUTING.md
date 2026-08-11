@@ -43,3 +43,4 @@ Notes and usage details for IB_MCP.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
